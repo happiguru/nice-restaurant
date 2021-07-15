@@ -8,6 +8,10 @@ The following tools help make easier to work with sample code.
 - [Visual Studio Code](https://code.visualstudio.com/): A source code editor
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
 
+
+## Live View
+
+[Live View](https://happiguru.github.io/nice-restaurant/)
 ## Setup
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
